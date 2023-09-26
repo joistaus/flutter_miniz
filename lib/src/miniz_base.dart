@@ -8,6 +8,9 @@ import 'miniz_const.dart';
 import 'miniz_enums.dart';
 import 'miniz_ffi.dart';
 
+/// Miniz is a lossless, high performance data compression library that
+/// implements the zlib (RFC 1950) and Deflate (RFC 1951)
+/// compressed data format specification standards.
 class Miniz {
   Miniz._();
 
