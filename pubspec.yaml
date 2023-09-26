@@ -1,8 +1,8 @@
 name: miniz
 description: A dart port of Miniz compression library.
 version: 1.0.0
-homepage: https://github.com/joistaus/dart-miniz
-repository: https://github.com/joistaus/dart-miniz
+homepage: https://github.com/joistaus/flutter_miniz
+repository: https://github.com/joistaus/flutter_miniz
 topics:
     - compression
     - miniz
